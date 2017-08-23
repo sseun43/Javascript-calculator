@@ -1,0 +1,1 @@
+This javascript calculator has been programmed with basic operations for simple calculator, but it is designed to be easily expandable
